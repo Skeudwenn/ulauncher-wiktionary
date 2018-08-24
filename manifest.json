@@ -1,0 +1,19 @@
+{
+    "manifest_version": "2",
+    "api_version": "1",
+    "name": "Wiktionary",
+    "description": "Search words definition from Wiktionary",
+    "developer_name": "Skeudwenn",
+    "icon": "images/icon.png",
+    "options": {
+        "query_debounce": 1
+    },
+    "preferences": [
+        {
+            "id": "keyword",
+            "type": "keyword",
+            "name": "Wiktionary",
+            "default_value": "define"
+        }
+    ]
+}
