@@ -13,7 +13,7 @@
             "id": "keyword",
             "type": "keyword",
             "name": "Wiktionary",
-            "default_value": "define"
+            "default_value": "def"
         }
     ]
 }
