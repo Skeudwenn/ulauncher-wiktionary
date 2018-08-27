@@ -14,6 +14,12 @@
             "type": "keyword",
             "name": "Wiktionary",
             "default_value": "def"
+        },
+        {
+            "id": "language",
+            "type": "input",
+            "name": "Language",
+            "default_value": "fr"
         }
     ]
 }
